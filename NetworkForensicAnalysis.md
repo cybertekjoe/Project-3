@@ -64,7 +64,7 @@ Hackertarget.com gives a cheetsheet on finding an image, There were only a few f
     * Windows username elmer.blanco  
       ![alt_text](Images/Username_find.PNG "User Name")
     * OS version Window NT 10.0  
-      ![alt_text](Images/OS_Version.PNG "OS Version")  
+      ![alt_text](Images/Os_Version.PNG "OS Version")  
       
 2. Which torrent file did the user download?  
     * Betty_Boop_Rhythm_on_the_Reservation.avi.torrent  
