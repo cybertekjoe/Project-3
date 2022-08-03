@@ -70,11 +70,12 @@ Hackertarget.com gives a cheetsheet on finding an image, There were only a few f
 
 1. Find the following information about the machine with IP address 10.0.0.201:  
     * MAC address 00:16:16:18:66:c8  
-      ![alt_text](Images/MAC_address.png "Desktop Image")
-    * Windows username elmer.blanco
+      ![alt_text](Images/MAC_address.png "MAC Address")
+    * Windows username elmer.blanco  
       ![alt_text](Images/Username_find.PNG "User Name")
-    * OS version Window NT 10.0
+    * OS version Window NT 10.0  
       ![alt_text](Images/OS_Version.PNG "OS Version")  
       
-2. Which torrent file did the user download? Betty_Boop_Rhythm_on_the_Reservation.avi.torrent  
+2. Which torrent file did the user download?  
+    * Betty_Boop_Rhythm_on_the_Reservation.avi.torrent  
       ![alt_text](Images/BettyBoop.PNG "Torrent File")  
