@@ -1,10 +1,10 @@
 # **Offensive Report: **
 
 
-# **Red Team: Summary of Operations**
+## **Red Team: Summary of Operations**
 
 
-## **Table of Contents**
+### **Table of Contents**
 
 
 
