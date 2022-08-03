@@ -46,11 +46,11 @@ You must inspect your traffic capture to answer the following questions:
 2. What is the username of the Windows user whose computer is infected?  
 This website offered Windows user account from from Kerberos traffic  https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/  
 So, the username is: matthijs.devries
-![alt_text](Images/UserName-Capture.png "User Name Capture")
+![alt_text](Images/UserName-Capture.PNG "User Name Capture")
 
 3. What are the IP addresses used in the actual infection traffic?  
 	185.243.115.84  
-![alt_text](Images/IPaddresses.png "User Name Capture")
+![alt_text](Images/IPaddresses.png "IP Addresses")
 
 4. As a bonus, retrieve the desktop background of the Windows host.  
 Hackertarget.com gives a cheetsheet on finding an image, There were only a few files that were worth considering because of the size of the files. This one actually looks like a screenshot of a desktop  
@@ -72,9 +72,9 @@ Hackertarget.com gives a cheetsheet on finding an image, There were only a few f
     * MAC address 00:16:16:18:66:c8  
       ![alt_text](Images/MAC_address.png "Desktop Image")
     * Windows username elmer.blanco
-      ![alt_text](Images/Username_find.png "User Name")
+      ![alt_text](Images/Username_find.PNG "User Name")
     * OS version Window NT 10.0
-      ![alt_text](Images/OS_Version.png "OS Version")  
+      ![alt_text](Images/OS_Version.PNG "OS Version")  
       
 2. Which torrent file did the user download? Betty_Boop_Rhythm_on_the_Reservation.avi.torrent  
-      ![alt_text](Images/BettyBoop.png "Torrent File")  
+      ![alt_text](Images/BettyBoop.PNG "Torrent File")  
