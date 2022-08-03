@@ -36,7 +36,7 @@ You must inspect your traffic capture to answer the following questions:
 2. What is the username of the Windows user whose computer is infected?  
 This website offered Windows user account from from Kerberos traffic  https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/  
 So, the username is: matthijs.devries
-![alt_text](Images/UserName-Capture.PNG "User Name Capture")
+![alt_text](Images/Username-Capture.PNG "User Name Capture")
 
 3. What are the IP addresses used in the actual infection traffic?  
 	185.243.115.84  
