@@ -1,4 +1,4 @@
-# **Offensive Report: **
+# **Offensive Report:**
 
 
 ## **Red Team: Summary of Operations**
