@@ -24,12 +24,7 @@ You must inspect your traffic capture to answer the following questions:
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
+![alt_text](Images/virus_total_results.png "Virus Total Results")
 
 ---
 
@@ -44,33 +39,23 @@ You must inspect your traffic capture to answer the following questions:
 1. Find the following information about the infected Windows machine:
     * Host name ROTTERDAM-PC
     * IP address 172.16.4.4
-    * MAC address 00:59:07:b0:63:a4
-2. What is the username of the Windows user whose computer is infected? \
-This website offered Windows user account from from Kerberos traffic  https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/ \
+    * MAC address 00:59:07:b0:63:a4  
+![alt_text](Images/Rotterdam-PC.png "ROTTERDAM-PC")  
+
+  
+2. What is the username of the Windows user whose computer is infected?  
+This website offered Windows user account from from Kerberos traffic  https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/  
 So, the username is: matthijs.devries
-3. What are the IP addresses used in the actual infection traffic?  \
-	185.243.115.84
+![alt_text](Images/UserName-Capture.png "User Name Capture")
 
-        
+3. What are the IP addresses used in the actual infection traffic?  
+	185.243.115.84  
+![alt_text](Images/IPaddresses.png "User Name Capture")
 
-4. As a bonus, retrieve the desktop background of the Windows host. \
-Hackertarget.com gives a cheetsheet on finding an image, There were only a few files that were worth considering because of the size of the files. This one actually looks like a screenshot of a desktop
-
-    
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
- \
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
+4. As a bonus, retrieve the desktop background of the Windows host.  
+Hackertarget.com gives a cheetsheet on finding an image, There were only a few files that were worth considering because of the size of the files. This one actually looks like a screenshot of a desktop  
+![alt_text](Images/image_location.png "Desktop Image Located")
+![alt_text](Images/desktop_image.png "Desktop Image")
 
 
 ---
@@ -83,8 +68,13 @@ Hackertarget.com gives a cheetsheet on finding an image, There were only a few f
 
 
 
-1. Find the following information about the machine with IP address 10.0.0.201: \
-MAC address 00:16:16:18:66:c8
+1. Find the following information about the machine with IP address 10.0.0.201:  
+    * MAC address 00:16:16:18:66:c8  
+      ![alt_text](Images/MAC_address.png "Desktop Image")
     * Windows username elmer.blanco
+      ![alt_text](Images/Username_find.png "User Name")
     * OS version Window NT 10.0
-2. Which torrent file did the user download? Betty_Boop_Rhythm_on_the_Reservation.avi.torrent
+      ![alt_text](Images/OS_Version.png "OS Version")  
+      
+2. Which torrent file did the user download? Betty_Boop_Rhythm_on_the_Reservation.avi.torrent  
+      ![alt_text](Images/BettyBoop.png "Torrent File")  
