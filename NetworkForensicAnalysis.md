@@ -7,10 +7,7 @@ You must inspect your traffic capture to answer the following questions:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](Images/traffic_capture.png "image_tooltip")
+![alt_text](Images/traffic_capture.png "Traffic Capture")
 
 
 
@@ -20,17 +17,10 @@ You must inspect your traffic capture to answer the following questions:
 3. What is the name of the malware downloaded to the 10.6.12.203 machine? june11.dll
     * Once you have found the file, export it to your Kali machine's desktop. 
 4. Upload the file to[ VirusTotal.com](https://www.virustotal.com/gui/).
-5. What kind of malware is this classified as? Looks like a Trojan mostly
-
-
-
+5. What kind of malware is this classified as? Looks like a Trojan mostly  
 ![alt_text](Images/virus_total_results.png "Virus Total Results")
 
 ---
-
-
-## 
-
 
 ## **Vulnerable Windows Machine**
 
