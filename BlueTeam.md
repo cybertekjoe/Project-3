@@ -88,9 +88,6 @@ Alert 3 is implemented as follows:
 * **Vulnerability Mitigated**: _Malicious software, programs (malware or viruses) running taking up resources_
 * **Reliability**: _The alert is highly reliable. Regardless of whether a malicious program is running, this can still reveal where CPU usage can be improved._
 
-_ Note: Explain at least 3 alerts. Add more if time allows._
-
-
 ### 
 
 
