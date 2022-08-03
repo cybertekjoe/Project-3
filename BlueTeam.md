@@ -36,10 +36,7 @@ The following machines were identified on the network:
     * **IP Address**: 192.168.1.100
 
 
-
-[Network Diagram:]
-
-![Network Diagram]([images/NetworkDiagram.jpg]"Network Diagram")
+![Network Diagram](images/NetworkDiagram.jpg)
 
 
 
