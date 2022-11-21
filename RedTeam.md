@@ -63,7 +63,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             * _Obtained hashes and used john the ripper to crack them for obtaining the password for steven_
             * _With that password I was able to find the 3rd and 4th flag_
 
-<img src="Images/flag2.png")
+<img src="Images/flag2.png">
 
 ![alt_text](Images/mysql_databases.png "mysql databases") ![alt_text](Images/mysql_tables.png "mysql tables")
 
