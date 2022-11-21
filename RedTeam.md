@@ -63,6 +63,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             * _Obtained hashes and used john the ripper to crack them for obtaining the password for steven_
             * _With that password I was able to find the 3rd and 4th flag_
 
+![alt_text](Images/flag2.png "Flag2 code")
 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
