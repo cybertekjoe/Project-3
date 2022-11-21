@@ -55,7 +55,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             * _Entering the name michael for the password_
             * _grep -RE flag1 html_
 
-<img src="Images/flag1.png" height="100">
+<img src="Images/flag1.png" height="150">
 
     * flag2.txt: _flag2{fc3fd58dcdad9ab23faca6e9a36e581c}_
         * **Exploit Used**
