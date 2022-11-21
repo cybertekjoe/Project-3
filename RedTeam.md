@@ -55,7 +55,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             * _Entering the name michael for the password_
             * _grep -RE flag1 html_
 
-![alt_text](Images/flag1.png "Flag1 code" | height=100)
+![alt_text](Images/flag1.png "Flag1 code")
 
     * flag2.txt: _flag2{fc3fd58dcdad9ab23faca6e9a36e581c}_
         * **Exploit Used**
@@ -63,7 +63,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             * _Obtained hashes and used john the ripper to crack them for obtaining the password for steven_
             * _With that password I was able to find the 3rd and 4th flag_
 
-![alt_text](Images/flag2.png "Flag2 code")
+<img src="Images/flag2.png")
 
 ![alt_text](Images/mysql_databases.png "mysql databases") ![alt_text](Images/mysql_tables.png "mysql tables")
 
