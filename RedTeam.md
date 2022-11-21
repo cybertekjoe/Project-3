@@ -65,7 +65,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
 
 ![alt_text](Images/flag2.png "Flag2 code")
 
-![alt_text](Images/mysql_databases.png "mysql tables") ![alt_text](Images/mysql_tables.png "mysql databases")
+![alt_text](Images/mysql_databases.png "mysql databases") ![alt_text](Images/mysql_tables.png "mysql tables")
 
 
 
